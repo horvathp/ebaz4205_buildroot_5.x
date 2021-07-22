@@ -14,7 +14,7 @@ a linux system with basic BSP (Board Support Package).
 This layer depends on:
 
 	URI: git://git.busybox.net/buildroot
-	branch: 2020.11.x
+	branch: 2021.05.x
 
 ## Build
 
